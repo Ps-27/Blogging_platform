@@ -10,6 +10,8 @@ Requirements: Implement the following:
 - Update an existing blog post.
 - Delete a blog post.
 Use a database (e.g., MySQL, PostgreSQL) to persist the blog post data.
+
+
 Note:
 - Create a GitHub repo with public access and share the code in the same.
 - Create a postman collection for demonstration.  
