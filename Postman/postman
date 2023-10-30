@@ -1,0 +1,40 @@
+
+To create:
+________________
+
+  http://localhost:8080/blog-posts
+
+  Body:
+  {   
+    "title": "Sample Blog Post from 10th entry",
+    "content": "This is the content of my blog post."
+  }
+
+
+
+To GetAll:
+___________________
+
+  http://localhost:8080/blog-posts
+
+To GETByID:
+______________
+
+  http://localhost:8080/blog-posts/5
+  for postid: 5
+
+To Update:
+________________
+  http://localhost:8080/blog-posts/5
+  for postid: 5
+ Body:
+  {   
+    "title": "Sample Blog Post from 10th entry",
+    "content": "This is the content of my blog post."
+  }
+
+
+To delete:
+____________
+  http://localhost:8080/blog-posts/11
+  
