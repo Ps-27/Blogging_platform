@@ -1,5 +1,5 @@
 # Blogging_platform
- a RESTful API for a simple blogging platform.
+ A RESTful API for a simple blogging platform.
 
 
 Task: Build a RESTful API for a simple blogging platform.
